@@ -1,6 +1,6 @@
-# Llama Image Docker Repository
+# Ollama Image Docker Repository
 
-This repository contains a Docker image that builds a llama image with preconfigured modules, including llama3 and phi3.
+This repository contains a Docker image that builds an Ollama image with preconfigured modules, including llama3 and phi3.
 
 ## Usage
 
