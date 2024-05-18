@@ -1,6 +1,6 @@
 FROM ollama/ollama
 
-RUN ollama pull llama3
+RUN ollama run llama3
 
-RuN ollama pull phi3
+RuN ollama run phi3
 
